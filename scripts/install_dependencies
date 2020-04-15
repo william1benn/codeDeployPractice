@@ -1,5 +1,7 @@
 #!/bin/bash
-chmod +x ./install.sh
+scripts/install_dependencies
 
-yes Y | ./install.sh
+sudo chmod +x /scripts/install.sh
+
+yes Y | ./scripts/install.sh
 
