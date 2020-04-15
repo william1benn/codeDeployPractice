@@ -1,5 +1,4 @@
 #!/bin/bash
-scripts/install_dependencies
 
 sudo chmod +x /scripts/install.sh
 
