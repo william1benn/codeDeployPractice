@@ -1,4 +1,4 @@
 #!/bin/bash
 
-yes Yes | ./install.sh
+yes Y | ./install.sh
 
